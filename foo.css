@@ -1,0 +1,43 @@
+body {
+  background-color: #e0e0e0;
+}
+
+h1 {
+  color: pink;
+  background-color: #00a0ff;
+  font-family: sans-serif;
+  font-size: 190%;
+  border: thick dotted aquamarine;
+    }
+
+p {
+  color: lightblue;
+}
+
+div.welsh {
+  margin: 2em;
+  color: red;
+  background-color: #78e26c;
+  border: thick dotted white;
+}
+
+div.english {
+  margin: 2em;
+  color: white;
+  background-color: red;
+}
+
+div.french {
+  margin: 2em;
+  color: red;
+  background-color: white;
+  border: 0.2em dashed #00a0ff;
+}
+
+div.german {
+  margin: 2em;
+  border-top: 1em black solid;
+  border-bottom: 1em gold solid;
+  color: yellow;
+  background-color: red;
+}
